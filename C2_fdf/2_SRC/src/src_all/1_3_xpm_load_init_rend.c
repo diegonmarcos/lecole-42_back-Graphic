@@ -1,1 +1,0 @@
-../___map_load/1_3_xpm_load_init_rend.c

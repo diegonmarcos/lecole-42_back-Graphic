@@ -1,1 +1,0 @@
-../____vars_init/0_2__vars_ini1.c

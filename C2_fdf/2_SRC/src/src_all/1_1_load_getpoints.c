@@ -1,1 +1,0 @@
-../___map_load/1_1_load_getpoints.c
