@@ -1,0 +1,1 @@
+../___map_load/1_2_load_colorize.c
