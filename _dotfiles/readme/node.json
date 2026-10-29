@@ -5,6 +5,7 @@
   "label": "lecole-42_back-Graphic",
   "code": "5.2.1.1",
   "kind": "repo",
+  "variant": "repo",
   "description": "Filling Wireframes, rendering matrixes and applying ray tracing one pixel at a time, until the GPU begs for mercy.",
   "visibility": "public",
   "url": "https://github.com/diegonmarcos/lecole-42_back-Graphic",
